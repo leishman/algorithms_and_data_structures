@@ -1,3 +1,5 @@
+# Used http://www.brpreiss.com/books/opus8/ as reference
+
 class LinkedList
   attr_accessor :head, :tail
 
